@@ -1,11 +1,12 @@
 # bachtobaroque
-Svelteウェブサイトの開発。
 
-このウェブサイトはSvelteやTailwind CSSやPixi.js（未定）を使用し、西洋（西欧）の古典音楽理論を教えようにしています。
+Svelte ウェブサイトの開発。
+
+このウェブサイトは Svelte や Tailwind CSS や Pixi.js（未定）を使用し、西洋（西欧）の古典音楽理論を教えようにしています。
 
 ---
 
-Svelteの公式紹介文は以下です。
+Svelte の公式紹介文は以下です。
 
 # create-svelte
 
